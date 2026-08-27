@@ -28,7 +28,7 @@ Supabase · Netlify · GitHub
 
 * **Soluciones y herramientas territoriales** — desarrollo scripts en R y herramientas para trabajar con información geográfica y estadística, incluyendo visores territoriales estáticos e interactivos y soluciones a medida para distintos proyectos.
 
-* * **Cartografía y análisis territorial** — elaboración de mapas, análisis espaciales y productos cartográficos.
+* **Cartografía y análisis territorial** — elaboración de mapas, análisis espaciales y productos cartográficos.
 
 ## 📫 Contacto
 
