@@ -2,11 +2,11 @@
 
 Sureño, desde Nueva Imperial viviendo en Rancagua (aprendí a bailar latinos).
 
-🌎 ## Bio
+## 🌎 Bio
 
 Trabajo con **datos territoriales, SIG y desarrollo de herramientas y soluciones geoespaciales**. Actualmente me desempeño como Analista Geoespacial en el Instituto Nacional de Estadísticas y desarrollo proyectos de forma independiente.
 
-🗺️ ## Stack
+## 🗺️ Stack
 
 **SIG y geoproceso**
 QGIS · ArcGIS · PyQGIS · Google Earth Engine
@@ -20,7 +20,7 @@ HTML · CSS · JavaScript · MapLibre GL JS · Leaflet ·
 **Bases y despliegue**
 Supabase · Netlify · GitHub 
 
-## 🚀 Trabajo destacado
+## 💻 Algo de mi trabajo
 
 * **Visores territoriales interactivos para municipios** — herramientas web autocontenidas para explorar y visualizar información territorial.  
   → **Municipalidad de Nueva Imperial:** [mapas.nuevaimperial.cl](https://mapas.nuevaimperial.cl)
@@ -30,7 +30,7 @@ Supabase · Netlify · GitHub
 
 * * **Cartografía y análisis territorial** — elaboración de mapas, análisis espaciales y productos cartográficos.
 
-## Contacto
+## 📫 Contacto
 
 📧 [nelsonsanchez.al@gmail.com](mailto:nelsonsanchez.al@gmail.com)
 
