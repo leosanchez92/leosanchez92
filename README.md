@@ -1,4 +1,4 @@
-# Buenas! 👋 Soy Nelson Leonardo
+# ¡Buenas! 👋 Soy Nelson Leonardo
 
 Sureño, desde Nueva Imperial viviendo en Rancagua (aprendí a bailar latinos).
 
