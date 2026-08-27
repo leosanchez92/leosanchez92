@@ -24,7 +24,7 @@ Supabase · Netlify · GitHub
 
 * **Visores territoriales interactivos para municipios** — herramientas web autocontenidas para explorar y visualizar información territorial.  
   * → **Municipalidad de Nueva Imperial:** [mapas.nuevaimperial.cl](https://mapas.nuevaimperial.cl)
-  * → **Municipalidad de Nacimiento:** [Visor Nacimiento]([https://mapas.nuevaimperial.cl](https://www.intranetnacimiento.cl/VisorComunal/index.html)
+  * → **Municipalidad de Nacimiento:** [mapas nacimiento](https://www.intranetnacimiento.cl/VisorComunal/index.html)
 
 * **Soluciones y herramientas territoriales** — desarrollo scripts en R y herramientas para trabajar con información geográfica y estadística, incluyendo visores territoriales estáticos e interactivos y soluciones a medida para distintos proyectos.
 
