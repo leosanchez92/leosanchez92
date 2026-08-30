@@ -12,10 +12,10 @@ Trabajo con **datos territoriales, SIG y desarrollo de herramientas y soluciones
 QGIS · ArcGIS · PyQGIS · Google Earth Engine
 
 **Análisis y datos**
-R [ tidyverse · ggplot2 · Shiny · Quarto ] · Redatam+ 
+R (tidyverse · ggplot2 · Shiny · Quarto) · Redatam+ 
 
 **Web y cartografía interactiva**
-HTML · CSS · JavaScript · MapLibre GL JS · Leaflet ·
+HTML · CSS · JavaScript · MapLibre GL JS · Leaflet 
 
 **Bases y despliegue**
 Supabase · Netlify · GitHub 
@@ -27,7 +27,7 @@ Supabase · Netlify · GitHub
 * **Cartografía y análisis territorial** — elaboración de mapas, análisis espaciales y productos cartográficos.
 
 * **Visores territoriales interactivos para municipios** — herramientas web autocontenidas para explorar y visualizar información territorial.  
-  → **Municipalidad de Nueva Imperial:** [mapas.nuevaimperial.cl](https://mapas.nuevaimperial.cl)
+  → **Municipalidad de Nueva Imperial:** [mapas.nuevaimperial.cl](https://mapas.nuevaimperial.cl)  
   → **Municipalidad de Nacimiento:** [mapas nacimiento](https://www.intranetnacimiento.cl/VisorComunal/index.html)
 
 
