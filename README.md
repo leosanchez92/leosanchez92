@@ -22,13 +22,14 @@ Supabase · Netlify · GitHub
 
 ## 💻 Algo de mi trabajo
 
-* **Visores territoriales interactivos para municipios** — herramientas web autocontenidas para explorar y visualizar información territorial.  
-  * → **Municipalidad de Nueva Imperial:** [mapas.nuevaimperial.cl](https://mapas.nuevaimperial.cl)
-  * → **Municipalidad de Nacimiento:** [mapas nacimiento](https://www.intranetnacimiento.cl/VisorComunal/index.html)
-
 * **Soluciones y herramientas territoriales** — desarrollo scripts en R y herramientas para trabajar con información geográfica y estadística, incluyendo visores territoriales estáticos e interactivos y soluciones a medida para distintos proyectos.
 
 * **Cartografía y análisis territorial** — elaboración de mapas, análisis espaciales y productos cartográficos.
+
+* **Visores territoriales interactivos para municipios** — herramientas web autocontenidas para explorar y visualizar información territorial.  
+  → **Municipalidad de Nueva Imperial:** [mapas.nuevaimperial.cl](https://mapas.nuevaimperial.cl)
+  → **Municipalidad de Nacimiento:** [mapas nacimiento](https://www.intranetnacimiento.cl/VisorComunal/index.html)
+
 
 ## 📫 Contacto
 
