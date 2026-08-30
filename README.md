@@ -4,7 +4,7 @@ Sureño, desde Nueva Imperial viviendo en Rancagua (aprendí a bailar latinos).
 
 ## 🌎 Bio
 
-Trabajo con **datos territoriales, SIG y desarrollo de herramientas y soluciones geoespaciales**. Actualmente me desempeño como Analista Geoespacial en el Instituto Nacional de Estadísticas y desarrollo proyectos de forma independiente.
+Trabajo con **datos territoriales, SIG y desarrollo de herramientas para analizar, visualizar y comunicar información geográfica y estadística**. Actualmente me desempeño como Analista Geoespacial en el Instituto Nacional de Estadísticas y desarrollo proyectos de forma independiente.
 
 ## 🗺️ Stack
 
