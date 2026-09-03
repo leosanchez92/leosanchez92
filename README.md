@@ -22,6 +22,8 @@ Supabase · Netlify · GitHub
 
 ## 💻 Algo de mi trabajo
 
+* **Portafolio personal** — CV, proyectos y código, en un sitio que recrea el escritorio de Windows 98 → [leosanchez92.github.io/portafolio-nel](https://leosanchez92.github.io/portafolio-nel/)
+
 * **Soluciones y herramientas territoriales** — desarrollo scripts en R y herramientas para trabajar con información geográfica y estadística, incluyendo visores territoriales estáticos e interactivos y soluciones a medida para distintos proyectos.
 
 * **Cartografía y análisis territorial** — elaboración de mapas, análisis espaciales y productos cartográficos.
