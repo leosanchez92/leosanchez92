@@ -6,6 +6,8 @@ Sureño, desde Nueva Imperial viviendo en Rancagua (aprendí a bailar latinos).
 
 Trabajo con **datos territoriales, SIG y desarrollo de herramientas para analizar, visualizar y comunicar información geográfica y estadística**. Actualmente me desempeño como Analista Geoespacial en el Instituto Nacional de Estadísticas y desarrollo proyectos de forma independiente.
 
+* **Portafolio personal** — CV, proyectos y código, en un sitio que recrea el escritorio de Windows 98 → [leosanchez92.github.io/portafolio-nel](https://leosanchez92.github.io/portafolio-nel/)
+
 ## 🗺️ Stack
 
 **SIG y geoproceso**
@@ -22,7 +24,6 @@ Supabase · Netlify · GitHub
 
 ## 💻 Algo de mi trabajo
 
-* **Portafolio personal** — CV, proyectos y código, en un sitio que recrea el escritorio de Windows 98 → [leosanchez92.github.io/portafolio-nel](https://leosanchez92.github.io/portafolio-nel/)
 
 * **Soluciones y herramientas territoriales** — desarrollo scripts en R y herramientas para trabajar con información geográfica y estadística, incluyendo visores territoriales estáticos e interactivos y soluciones a medida para distintos proyectos.
 
