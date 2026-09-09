@@ -2,7 +2,7 @@
 
 # ¡Buenas! 👋 Soy Nelson Leonardo
 
-**Geógrafo especialista en SIG** · Sureño, desde Nueva Imperial viviendo en Rancagua (aprendí a bailar latinos)
+Sureño, desde Nueva Imperial viviendo en Rancagua (aprendí a bailar latinos)
 
 </div>
 
