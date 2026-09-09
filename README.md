@@ -37,7 +37,7 @@ Parte de mi trabajo, aquí en mi portafolio personal inspirado en el mítico esc
 | **Visor Territorial Nueva Imperial** | Visor web municipal: localidades, límites, juntas de vecinos y Plan Regulador Comunal | [Ver en vivo](https://mapas.nuevaimperial.cl) |
 | **Visor Territorial Nacimiento** | Visor web municipal con Plan Regulador Comunal | [Ver en vivo](https://www.intranetnacimiento.cl/VisorComunal/index.html) |
 | **Automatización territorial** | Scripts en R y Python que reemplazan procesos manuales: generación de visores, exportación masiva a KML/GeoJSON, consultas catastrales por lote | [Ver código](https://leosanchez92.github.io/portafolio-nel/#codigo) |
-| **Cartografía y análisis espacial** | Mapas, análisis de proximidad y productos cartográficos para planificación institucional | — |
+| **Cartografía y análisis espacial** | Productos cartográficos para planificación institucional y otros | — |
 
 ---
 
