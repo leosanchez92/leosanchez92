@@ -26,7 +26,7 @@ Parte de mi trabajo, aquí en mi portafolio personal inspirado en el mítico esc
 ![HTML](https://img.shields.io/badge/HTML-6A1B9A?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-6A1B9A?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-6A1B9A?style=flat-square&logo=javascript&logoColor=white) ![MapLibre GL JS](https://img.shields.io/badge/MapLibre_GL_JS-6A1B9A?style=flat-square) ![Leaflet](https://img.shields.io/badge/Leaflet-6A1B9A?style=flat-square&logo=leaflet&logoColor=white)
 
 **Bases y despliegue**
-![Supabase](https://img.shields.io/badge/Supabase-455A64?style=flat-square&logo=supabase&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-455A64?style=flat-square&logo=netlify&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-455A64?style=flat-square&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-455A64?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-455A64?style=flat-square&logo=vercel&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-455A64?style=flat-square&logo=githubpages&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-455A64?style=flat-square&logo=github&logoColor=white)
 
 ---
 
